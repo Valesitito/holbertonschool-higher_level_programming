@@ -1,2 +1,2 @@
 -- Display Records
-SELECT COUNT(*) FROM TABLA WHERE id = 1;
+SELECT COUNT(*) FROM first_table  WHERE id = 1;

@@ -1,0 +1,2 @@
+-- LISTS ALL ROWS TABLE 
+SELECT * FROM first_table;
